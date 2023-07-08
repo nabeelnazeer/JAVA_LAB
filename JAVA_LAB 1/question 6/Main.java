@@ -31,7 +31,7 @@ class Box extends Rectangle{
         return volume;
     }
 }
-public class rectangle{
+public class Main{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
