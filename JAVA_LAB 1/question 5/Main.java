@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Box{
+class Box{
     private double length;
     private double breadth;
     private double height;
@@ -40,6 +40,15 @@ public class Box{
         volume = length*breadth*height;
     }
 
+    public double getArea(){
+        return area;
+    }
+    public double getVolume(){
+        return volume;
+    }
+
+}    
+public class Main{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char choice;
@@ -68,8 +77,8 @@ public class Box{
             box.calculateArea();
             box.calculateVolume();
 
-            System.out.print("area: "+box.area);
-            System.out.print("volume: "+box.volume);
+            System.out.print("area: "+box.getArea());
+            System.out.print("volume: "+box.getVolume());
 
             System.out.print("Do you want to continue (Y/N: )");
             choice = scanner.next().charAt(0);
