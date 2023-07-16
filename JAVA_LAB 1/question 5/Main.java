@@ -88,3 +88,8 @@ public class Main{
     
 
 }
+/*Enter the dimensions: 
+Length: 2
+Breadth:3
+height: 4
+area: 52.0volume: 24.0Do you want to continue (Y/N: )n*/

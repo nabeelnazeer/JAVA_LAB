@@ -38,6 +38,15 @@ public static void OutPrime(int n){
 }
 
 }
+        
+// ➜  quetion 1 git:(main) ✗ java Main 6
+// Enter the value of n : 
+// 2 
+// 3 
+// 4 
+// 5 
+// 7 
+// 9 
 
 
 

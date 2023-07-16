@@ -78,3 +78,27 @@ public class third{
 
 	}
 }
+/*Enter the name of first student : nabeel
+Enter Roll noo. : 21
+Enter the name of second student : nazeer
+Enter Roll noo. : 22
+Enter nabeel's marks for five subjects : 
+Enter marks for physiscs : 70
+Enter marks for chemistry : 76
+Enter marks for english : 68
+Enter marks for biology : 76
+Enter marks for maths : 77
+Enter nazeer's marks for five subjects : 
+Enter marks for physiscs : 80
+Enter marks for chemistry : 87
+Enter marks for english : 90
+Enter marks for biology : 85
+Enter marks for maths : 89
+Student name : nazeer
+Student Roll no. : 22
+Marks for physiscs : 80
+Marks for chemistry : 87
+Marks for english : 90
+Marks for biology : 85
+Marks for maths : 89
+➜  question 3 git:(mai8*/

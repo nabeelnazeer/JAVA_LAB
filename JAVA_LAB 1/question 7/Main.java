@@ -234,3 +234,88 @@ public class Main{
     }
 
 }
+/*----ACCOUNT MANAGEMENT SYSTEM----
+1. Create savings account
+2. create current account
+3. Deposit amount
+4. Withdraw amount
+5. Display account details
+0. Exit
+Enter your choice1
+Enter account holder name : 
+nabeel
+Enter Account number : 
+1
+Enter the initial balnace : 
+2000
+Account created successfully!
+1. Create savings account
+2. create current account
+3. Deposit amount
+4. Withdraw amount
+5. Display account details
+0. Exit
+Enter your choice3
+Enter the account number: 
+200
+Enter Deposit Amount: 2
+Account Does not exist
+1. Create savings account
+2. create current account
+3. Deposit amount
+4. Withdraw amount
+5. Display account details
+0. Exit
+Enter your choice4
+Enter the account number: 
+1
+Enter the amount to withdraw
+1000
+Amount withdrawn successfully
+New balance: 1000.0
+1. Create savings account
+2. create current account
+3. Deposit amount
+4. Withdraw amount
+5. Display account details
+0. Exit
+Enter your choice2
+Enter account holder name : 
+nazeer
+Enter Account number : 
+2
+Enter the initial balnace : 
+2000
+Account created successfully!
+1. Create savings account
+2. create current account
+3. Deposit amount
+4. Withdraw amount
+5. Display account details
+0. Exit
+Enter your choice4
+Enter the account number: 
+2150 
+Enter the amount to withdraw
+1
+Account does not exist
+1. Create savings account
+2. create current account
+3. Deposit amount
+4. Withdraw amount
+5. Display account details
+0. Exit
+Enter your choice4
+Enter the account number: 
+2
+Enter the amount to withdraw
+2150
+Insufficient balance
+1. Create savings account
+2. create current account
+3. Deposit amount
+4. Withdraw amount
+5. Display account details
+0. Exit
+Enter your choice0
+Thank you*/

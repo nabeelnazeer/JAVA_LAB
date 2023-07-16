@@ -79,4 +79,11 @@ public class Main {
 
         scanner.close();
     }
-}
+}/*--- 3D Shapes Program ---
+1. Calculate Cylinder
+2. Calculate Sphere
+Enter your choice: 1
+Enter the radius of the cylinder: 2
+Enter the height of the cylinder: 3
+Volume of the cylinder: 37.69911184307752
+Surface area of the cylinder: 62.83185307179586*/
