@@ -99,7 +99,7 @@ public class Employee{
             year = sc.nextInt();
         }
         public void printDOJ(){
-            System.out.print("Date of joining : "+ day + "-" + month +"-"+year);
+            System.out.println("Date of joining : "+ day + "-" + month +"-"+year);
         }
     }
     
